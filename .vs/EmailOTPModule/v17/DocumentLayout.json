@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\swath\\source\\repos\\Capegimini\\EmailOTPModule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC066642-EBDB-4A8F-BBCA-AAF6B0993DC6}|Solution Items{FC066642-EBDB-4A8F-BBCA-AAF6B0993DC6}|C:\\Users\\swath\\source\\repos\\Capegimini\\EmailOTPModule\\ReadMe.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{FC066642-EBDB-4A8F-BBCA-AAF6B0993DC6}|Solution Items{FC066642-EBDB-4A8F-BBCA-AAF6B0993DC6}|solutionrelative:ReadMe.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A47A81-C46F-477D-8A68-C456108FBC7D}|EmailOTPModule\\EmailOTPModule.csproj|c:\\users\\swath\\source\\repos\\capegimini\\emailotpmodule\\emailotpmodule\\emailotpmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A47A81-C46F-477D-8A68-C456108FBC7D}|EmailOTPModule\\EmailOTPModule.csproj|solutionrelative:emailotpmodule\\emailotpmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5247E1CF-5475-46E8-8ADD-ADBB038DA1DE}|EmailOTPModuleTests\\EmailOTPModuleTests.csproj|c:\\users\\swath\\source\\repos\\capegimini\\emailotpmodule\\emailotpmoduletests\\emailotpmoduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5247E1CF-5475-46E8-8ADD-ADBB038DA1DE}|EmailOTPModuleTests\\EmailOTPModuleTests.csproj|solutionrelative:emailotpmoduletests\\emailotpmoduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadMe.md",
+              "DocumentMoniker": "C:\\Users\\swath\\source\\repos\\Capegimini\\EmailOTPModule\\ReadMe.md",
+              "RelativeDocumentMoniker": "ReadMe.md",
+              "ToolTip": "C:\\Users\\swath\\source\\repos\\Capegimini\\EmailOTPModule\\ReadMe.md",
+              "RelativeToolTip": "ReadMe.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-06T15:39:40.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailOTPModuleTest.cs",
+              "DocumentMoniker": "C:\\Users\\swath\\source\\repos\\Capegimini\\EmailOTPModule\\EmailOTPModuleTests\\EmailOTPModuleTest.cs",
+              "RelativeDocumentMoniker": "EmailOTPModuleTests\\EmailOTPModuleTest.cs",
+              "ToolTip": "C:\\Users\\swath\\source\\repos\\Capegimini\\EmailOTPModule\\EmailOTPModuleTests\\EmailOTPModuleTest.cs",
+              "RelativeToolTip": "EmailOTPModuleTests\\EmailOTPModuleTest.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:34:29.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailOTPModule.cs",
+              "DocumentMoniker": "C:\\Users\\swath\\source\\repos\\Capegimini\\EmailOTPModule\\EmailOTPModule\\EmailOTPModule.cs",
+              "RelativeDocumentMoniker": "EmailOTPModule\\EmailOTPModule.cs",
+              "ToolTip": "C:\\Users\\swath\\source\\repos\\Capegimini\\EmailOTPModule\\EmailOTPModule\\EmailOTPModule.cs",
+              "RelativeToolTip": "EmailOTPModule\\EmailOTPModule.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAADwvwsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:31:57.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
